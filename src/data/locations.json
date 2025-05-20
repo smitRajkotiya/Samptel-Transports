@@ -1,0 +1,86 @@
+{
+  "locations": [
+    "Ahmedabad",
+    "Surat",
+    "Vadodara",
+    "Rajkot",
+    "Bhavnagar",
+    "Jamnagar",
+    "Gandhinagar",
+    "Junagadh",
+    "Anand",
+    "Nadiad",
+    "Mehsana",
+    "Morbi",
+    "Surendranagar",
+    "Bharuch",
+    "Vapi",
+    "Navsari",
+    "Veraval",
+    "Porbandar",
+    "Godhra",
+    "Patan",
+    "Dahod",
+    "Bhuj",
+    "Palanpur",
+    "Botad",
+    "Amreli",
+    "Deesa",
+    "Jetpur",
+    "Gondal",
+    "Dhoraji",
+    "Khambhat",
+    "Modasa",
+    "Visnagar",
+    "Unjha",
+    "Kadi",
+    "Dabhoi",
+    "Jambusar",
+    "Vyara",
+    "Jasdan",
+    "Dholka",
+    "Ankleshwar",
+    "Kalol",
+    "Himatnagar",
+    "Valsad",
+    "Bilimora",
+    "Sidhpur",
+    "Savarkundla",
+    "Bardoli",
+    "Keshod",
+    "Viramgam",
+    "Dhandhuka"
+  ],
+  "vehicleTypes": [
+    {
+      "type": "3 Wheeler",
+      "capacity": "500 kg",
+      "price": "₹160",
+      "image": "/icon/3_wheeler_update_68e76971bd.svg"
+    },
+    {
+      "type": "Tata Ace",
+      "capacity": "750kg",
+      "price": "₹205",
+      "image": "/icon/tata_ace_2deb9441fd.svg"
+    },
+    {
+      "type": "Pickup 8ft",
+      "capacity": "1250kg",
+      "price": "₹300",
+      "image": "/icon/8ft_3f900fa091.svg"
+    }, 
+    {
+      "type": "Bolero 1.7 Ton",
+      "capacity": "1700 kg",
+      "price": "₹380",
+      "image": "/icon/1_7_Ton_Pickup_1_83ec34cf2b.svg"
+    },
+    {
+      "type": "Eicher 14ft",
+      "capacity": "3500kg",
+      "price": "₹1050",
+      "image": "/icon/14ft_3cc472f6ff.svg"
+    }
+  ]
+} 
